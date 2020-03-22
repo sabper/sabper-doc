@@ -12,7 +12,7 @@
 
 주로 Public Cloud Infra 대상입니다.
 
-### [AWS](/docs/articles/kubernetes/eks.md)
+### [AWS](/docs/articles/aws.md)
 
 ### Kubernetes
 
