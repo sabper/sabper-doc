@@ -10,14 +10,11 @@
 
 ## 1. Infra Engineering
 
----
 주로 Public Cloud Infra 대상입니다.
 
 ### Kubernetes
 
-#### Articles
-
-* [EKS](/docs/articles/eks)
+* [EKS](/docs/articles/eks.md)
 
 * Tools
 
@@ -34,8 +31,6 @@
 * Chaos Engineering
 
 ### Infrastruce as Code
-
-#### Articles
 
 * terraform
 
