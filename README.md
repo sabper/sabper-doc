@@ -12,9 +12,11 @@
 
 주로 Public Cloud Infra 대상입니다.
 
+### [AWS](/docs/articles/kubernetes/eks.md)
+
 ### Kubernetes
 
-* [EKS](/docs/articles/eks.md)
+* [EKS](/docs/articles/kubernetes/eks.md)
 
 * Tools
 
@@ -22,7 +24,7 @@
 
 * Logging
 
-* Monitoring
+* [Monitoring](/docs/articles/kubernetes/monitoring.md)
 
 * CI / CD
 

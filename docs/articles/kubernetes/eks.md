@@ -6,8 +6,6 @@ EKS 관련 Article 을 정리 해서 모아 놓았고, 나중에 다시 읽어 �
 
 ## Setup
 
----
-
 ### [AWS 서비스를 활용한 Kubernetes 클러스터 구축](http://engineering.vcnc.co.kr/2019/03/kubernetes-on-aws/)
 
 * 아, EKS 처음 설치 시에 많은 도움이 되었던 글이다.
@@ -79,8 +77,6 @@ EKS 관련 Article 을 정리 해서 모아 놓았고, 나중에 다시 읽어 �
 * 아마 축소해서 원하는 수준으로 다시 가공 하겠지만,,
 
 ## Security
-
----
 
 ### [Guide to Designing EKS Clusters for Better Security](https://www.stackrox.com/post/2020/03/guide-to-eks-cluster-design-for-better-security/)
 
